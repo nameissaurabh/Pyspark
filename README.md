@@ -1,6 +1,6 @@
 ## Pyspark
 It's a basic of Pyspark
-# Prerequisites
+### Prerequisites
 Before you begin, ensure you have the following:
 
 - Basic understanding of Python.
